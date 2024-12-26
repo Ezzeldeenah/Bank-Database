@@ -6,7 +6,6 @@ USE Bank;
 
 SHOW TABLES;
 
-select*from loan;
 
 -- -----------------------------------------------------------------------------------
 -- Branches the customers served by, and if a customer served by more than one branch
